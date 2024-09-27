@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Erasmus Life - Experiences</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="experiences.html">Experiences</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="experiences">
+            <h2>Erasmus+ Experiences</h2>
+            <div class="project-cards">
+                <div class="card">
+                    <h3>Project Title 1</h3>
+                    <p>In this project, I worked on developing leadership skills through collaboration with international students.</p>
+                </div>
+                <div class="card">
+                    <h3>Project Title 2</h3>
+                    <p>This project focused on community engagement and understanding diverse cultural perspectives.</p>
+                </div>
+                <div class="card">
+                    <h3>Project Title 3</h3>
+                    <p>Here, I led a team to create awareness about environmental issues through workshops and events.</p>
+                </div>
+                <!-- Add more project cards as needed -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 My Erasmus Life. All rights reserved.</p>
+    </footer>
+</body>
+</html>
